@@ -41,11 +41,20 @@ Gender:	Gender of the student (Male, Female).
 Exam_Score:	Final exam score.
 
 Overview on what i do to build this model:
+
 1- import suitable libraries
+
 2- check if data contain null values or duplicates 
+
 3- drop null values
+
 4- checking about outliers then removing them
+
 5- changing categorical data to numerical data type by using LabelEncoder
+
 6- Using Linear Regression Algorithm because the target column is contiunes not binary[0 or 1]
+
 7- build system prediction only to test my model response
+
 8- Try Polynomial Regression
+
