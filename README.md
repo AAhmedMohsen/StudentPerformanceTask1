@@ -52,7 +52,7 @@ Overview on what i do to build this model:
 
 5- changing categorical data to numerical data type by using LabelEncoder
 
-6- Using Linear Regression Algorithm because the target column is contiunes not binary[0 or 1]
+6- Using Linear Regression Algorithm because the target column is continuous not binary[0 or 1]
 
 7- build system prediction only to test my model response
 
